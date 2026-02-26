@@ -1,0 +1,15 @@
+C:\Users\jdroj\source\repos\kommit\technical-challenge\technical-challenge\bin\Debug\net8.0\technical-challenge.exe
+C:\Users\jdroj\source\repos\kommit\technical-challenge\technical-challenge\bin\Debug\net8.0\technical-challenge.deps.json
+C:\Users\jdroj\source\repos\kommit\technical-challenge\technical-challenge\bin\Debug\net8.0\technical-challenge.runtimeconfig.json
+C:\Users\jdroj\source\repos\kommit\technical-challenge\technical-challenge\bin\Debug\net8.0\technical-challenge.dll
+C:\Users\jdroj\source\repos\kommit\technical-challenge\technical-challenge\bin\Debug\net8.0\technical-challenge.pdb
+C:\Users\jdroj\source\repos\kommit\technical-challenge\technical-challenge\obj\Debug\net8.0\technical-challenge.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jdroj\source\repos\kommit\technical-challenge\technical-challenge\obj\Debug\net8.0\technical-challenge.AssemblyInfoInputs.cache
+C:\Users\jdroj\source\repos\kommit\technical-challenge\technical-challenge\obj\Debug\net8.0\technical-challenge.AssemblyInfo.cs
+C:\Users\jdroj\source\repos\kommit\technical-challenge\technical-challenge\obj\Debug\net8.0\technical-challenge.csproj.CoreCompileInputs.cache
+C:\Users\jdroj\source\repos\kommit\technical-challenge\technical-challenge\obj\Debug\net8.0\technical-challenge.sourcelink.json
+C:\Users\jdroj\source\repos\kommit\technical-challenge\technical-challenge\obj\Debug\net8.0\technical-challenge.dll
+C:\Users\jdroj\source\repos\kommit\technical-challenge\technical-challenge\obj\Debug\net8.0\refint\technical-challenge.dll
+C:\Users\jdroj\source\repos\kommit\technical-challenge\technical-challenge\obj\Debug\net8.0\technical-challenge.pdb
+C:\Users\jdroj\source\repos\kommit\technical-challenge\technical-challenge\obj\Debug\net8.0\technical-challenge.genruntimeconfig.cache
+C:\Users\jdroj\source\repos\kommit\technical-challenge\technical-challenge\obj\Debug\net8.0\ref\technical-challenge.dll
